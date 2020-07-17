@@ -1,0 +1,11 @@
+.error-icon {
+    display: block;
+    margin: 0 auto 16px;
+    width: 64px;
+    height: auto;
+}
+.error-indicator {
+    margin: auto;
+    color: red;
+    text-align: center;
+}
